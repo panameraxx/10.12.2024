@@ -1,0 +1,7 @@
+D:\215\fivfiv\bin\Debug\fivfiv.exe.config
+D:\215\fivfiv\bin\Debug\fivfiv.exe
+D:\215\fivfiv\bin\Debug\fivfiv.pdb
+D:\215\fivfiv\obj\Debug\fivfiv.csproj.AssemblyReference.cache
+D:\215\fivfiv\obj\Debug\fivfiv.csproj.CoreCompileInputs.cache
+D:\215\fivfiv\obj\Debug\fivfiv.exe
+D:\215\fivfiv\obj\Debug\fivfiv.pdb
